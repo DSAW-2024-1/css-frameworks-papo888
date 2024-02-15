@@ -1,3 +1,5 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/M0S2Rpvw)
+[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-718a45dd9cf7e7f842a935f5ebbe5719a5e09af4491e668f4dbf3b35d5cca122.svg)](https://classroom.github.com/online_ide?assignment_repo_id=13820543&assignment_repo_type=AssignmentRepo)
 # Reto de HTML y CSS con Bootstrap y TailwindCSS
 
 ![Design preview for the Results summary component coding challenge](./design/desktop-preview.jpg)
@@ -43,3 +45,5 @@ El objetivo de este taller es hacer que la página que ya desarrollamos se vea c
 - [Documentación de Bootstrap](https://getbootstrap.com/docs/5.2/getting-started/introduction/)
 - [Documentación de TailwindCSS](https://tailwindcss.com/docs)
 - [Guía de diseño web responsive](https://www.w3schools.com/html/html_responsive.asp)
+
+-link página:https://dsaw-2024-1.github.io/css-frameworks-papo888/
