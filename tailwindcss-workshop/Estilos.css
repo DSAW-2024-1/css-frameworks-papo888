@@ -1,0 +1,72 @@
+.bg-gradient-to-b-custom {
+    background: linear-gradient(to bottom, #6742FD, #322DE9);
+}
+.bg-gradient-to-b-custom2 {
+    background: linear-gradient(to bottom, #4B24CD, #4634EF);
+}
+.bg-red-custom{
+    background-color: #FFF7F6;
+}
+.bg-yellow-custom{
+    background-color: #FEFBF2;
+}
+.bg-green-custom{
+    background-color: #F4FAFA;
+}
+.bg-purple-custom{
+    background-color: #F3F3FD;
+}
+.btn-primary-custom:hover {
+    background-color: #5E3FFB !important;
+}
+.bg-custom {
+    background-color: #2E3C5B;
+  }
+@media screen and (max-width: 768px){
+    .down {
+        padding-top: 2rem;
+        padding-left: 2rem; 
+        margin-right: 20px;
+    }
+    .custom-rounded {
+        border-bottom-left-radius: 40px;
+        border-bottom-right-radius: 40px;
+    }
+}
+@media screen and (min-width: 769px) {
+    .todo {
+        display: flex;
+        box-shadow: 0px 0px 10px 5px rgba(0, 0, 0, 0.3);
+        border-radius: 60px;
+        height: 404px;
+        overflow: hidden;
+        position: relative;
+    }
+    .up, .down {
+        flex: 1;
+        border-radius: 0;
+    }
+    .bg-gradient-to-b-custom {
+        position: rel;
+        top: 0; 
+        left: 0; 
+        width: 100%; 
+        height: 100%; 
+    }
+    .down {
+        padding-top: 1.5rem;
+        padding-left: 2rem; 
+        margin-right: 20px;
+    }
+    body {
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+        align-items: center;
+        height: 100vh;
+    }
+    .custom-rounded {
+        border-radius: 40px;
+    }
+}
+
